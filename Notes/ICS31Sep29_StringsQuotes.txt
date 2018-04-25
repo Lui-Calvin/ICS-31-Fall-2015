@@ -1,0 +1,19 @@
+# signs are comments in python
+
+#compute the total bill in a restaurant with tax and tip 
+# given the base amount of the bill
+
+print("hello. What's your name?")
+user_name = input()
+print("Hello", user_name, ". whats the amount of the total bill?")
+
+programming language features have:
+	SYNTAX: the grammer, how you say it
+	SEMANTICS: the meaning, what it does.
+the syntax of a print statement(technically, a call function named 'print') is 
+	print (LIST-OF-ARGUEMENTS )
+the semantics are: print out the value of each argument in the list.
+the syntax of an assignment statement is
+	VARIABLE_NAME = EXPRESSION
+
+apostrophes and quotation marks

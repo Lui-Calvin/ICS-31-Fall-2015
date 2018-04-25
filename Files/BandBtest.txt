@@ -1,0 +1,30 @@
+##Part a) INPUT
+nb 100
+nb   102
+   NB 103
+nB 104
+NB 107
+##out of order rooms
+nB 200
+NB 201
+nb 106
+##adding reservations
+NR 100 2/23/2000 2/25/2000 L. Calvin
+NR 100 2/25/2000 2/28/2000 L. Calvin
+nR 102 11/12/2000 11/13/2000 L. Kimin
+Nr 103 11/12/2000 11/28/2000 L. Kimin
+NR 107 5/16/2001 5/30/2001 N. Steven
+NR 200 10/3/2002 10/14/2002 V. Justin
+nR 201  3/6/2002 3/9/2002 C. Lance
+NR 106 7/12/2001 7/15/2001 H. Raymond
+##printing reservation
+LR
+BR 100
+RG L. Calvin
+RG L. Kimin
+LA 11/12/2000
+LO 2/23/2000 2/28/2000
+LO 11/12/2000 11/28/2000
+LF 2/12/2002 2/14/2002
+LB
+PL

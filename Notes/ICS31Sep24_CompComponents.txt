@@ -1,0 +1,36 @@
+What are computers for?
+	research:Discovering new knowledge
+	Make life easier
+	Store information
+	process info
+	solve complex problem
+	simulate situations its hard to do physically
+	Communication
+	Entertainment
+	Automated transportation (planes,cars):
+		-planes had to have computer steering systems
+
+	Animation and design
+	Medicine:
+		-from medical records to Robotic surgery to drug dose monitoring
+
+	Create Text
+	Education
+	Emulation and virtual machine: pretend to be another older machine
+	Geographic Info Systems:
+		-Navigation & Tracking
+	Web and web design
+
+Typical Computer System:
+	Hardware equipment:
+		-processors, memory/storage
+		-peripherals: Display, keyboards, mouse, microphone,camera
+
+	Software instructions:
+		-Cooking is the analogy for software writing. Cooks' recipes are software algorithms
+		-Computers instructions are software too
+		-ALGORITHMS: step by step procedures to solve a problem
+		-an algorithm for a computer to carry out is a COMPUTER PROGRAM
+		-CODE: the test of a computer program
+achio@uci.edu
+
